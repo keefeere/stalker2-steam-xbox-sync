@@ -132,3 +132,5 @@ If you want to play and synchronize saves across **Steam**,
 (Deluxe or Ultimate editions), you will need to purchase three
 separate licenses: one for Steam, one for the UWP version on Windows, and
 one for the Xbox console version.
+Additionally, save files from Deluxe or Ultimate editions are not compatible
+with the Standard edition of the game.
